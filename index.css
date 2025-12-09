@@ -1,0 +1,38 @@
+* {
+    background-color: rgb(133, 170, 133);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+h2 {
+    color: rgb(255, 255, 204);
+}
+
+.title, th {
+    background-color: rgb(130, 179, 130);
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+}
+
+table, tr, td {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+}
+
+tr, td {
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.code, q {
+    background-color: rgb(210, 210, 169);
+    font-family: monospace, Arial, sans-serif;
+}
